@@ -2,4 +2,5 @@ main\java\com\mycompany\app\Duck.class
 com\mycompany\app\App.class
 main\java\com\mycompany\app\MallordDuck.class
 main\java\com\mycompany\app\Turkey.class
+main\java\com\mycompany\app\TurkeyAdapter.class
 main\java\com\mycompany\app\WildTurkey.class
